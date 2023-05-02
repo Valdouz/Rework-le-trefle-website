@@ -41,3 +41,21 @@ nav .right a {
     border-radius: 3vh;
     padding: 1vh;
 }
+
+.benevol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 2vh;
+    height: 80vh;
+    padding: 3vh;
+}
+
+.benevol .img img{
+    width: 60vh;
+}
+
+.benevol-text {
+    width: 40vh;
+    height: 80vh;
+}
