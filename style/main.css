@@ -59,3 +59,12 @@ nav .right a {
     width: 40vh;
     height: 80vh;
 }
+
+.scroll {
+    margin-top: 4vh;
+    text-align: center;
+}
+
+.scroll-text {
+    font-size: 2vh;
+}
