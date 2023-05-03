@@ -68,3 +68,38 @@ nav .right a {
 .scroll-text {
     font-size: 2vh;
 }
+
+.discord {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 2vh;
+    height: 80vh;
+    padding: 3vh;
+}
+
+.discord-text {
+    width: 40vh;
+}
+
+.discord-text p {
+    width: 40vh;
+    height: 50vh;
+}
+
+.discord-text .invite {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.discord-text .invite a {
+    height: 90px;
+    width: 600px;
+    border-radius: 15px;
+    background-color: #5865F2;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
