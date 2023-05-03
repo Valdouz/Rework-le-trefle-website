@@ -103,3 +103,8 @@ nav .right a {
     justify-content: space-evenly;
     text-decoration: none;
 }
+
+.discord iframe {
+    width: 33vw;
+    height: 33vw;
+}
